@@ -1,0 +1,10 @@
+Context- The context of this data is to know which category is more successful the online learners or the offline learners (traditional classroom learning vs Online Classroom Learning)
+
+Who- 1. The main audience of this data would be the online and offline learners.
+           2. Other audience can be various online learning  platforms and some educational body that governs education     department.
+
+What- 1. The various learners can understand the success rate and the visualize better form of learning.
+             2. Education platforms and educational bodies can know the success rate of both types of learning and measures to improve the  learning.
+How-    Historical data of past several years would be needed of the various learners who took online and offline platform for learning. I would plot a stacked bar graph for the two mentioned categories.
+
+Conclusion- Online learners are more successful as learning in a digital environment is potentially a great level, enabling people from all backgrounds to access learning and valuable knowledge.This make their time consumption more efficient t those of the offline learner.The audience can study at any time and anywhere suitable  according to their needs.
